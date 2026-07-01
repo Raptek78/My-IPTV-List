@@ -29,6 +29,24 @@ https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-name="Anger Management Channel (1080p)" group-title="Ben's List",Anger Management Channel (1080p)
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-name="arte HD" group-title="Ben's List",arte HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SPOVN7.png" tvg-name="Auction Hunters" group-title="Ben's List",Auction Hunters
+https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SPOVN7.png" tvg-name="Auction Hunters" group-title="Ben's List",Auction Hunters
+https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoPNG.png" tvg-name="Auction Hunters" group-title="Ben's List",Auction Hunters
+https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoPNG.png" tvg-name="Auction Hunters" group-title="Ben's List",Auction Hunters
+https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" tvg-name="Autentic History (1080p)" group-title="Ben's List",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" tvg-name="Autentic Travel (1080p)" group-title="Ben's List",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" tvg-name="Avatar" group-title="ENFANTS",Avatar
+https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png" tvg-name="Avatar" group-title="ENFANTS",Avatar
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
 #EXTINF:-1 tvg-name="Battlestar Galactica" group-title="Ben's List",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JIqJQQM.png" tvg-name="BBC Doctor Who Classic (1080p)" group-title="Ben's List",BBC Doctor Who Classic (1080p)
@@ -49,13 +67,21 @@ https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
 https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
 #EXTINF:-1 tvg-name="Beyond Paranormal (1080p)" group-title="Ben's List",Beyond Paranormal (1080p)
 https://videoelephantlimited-beyondparanormal-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" tvg-name="BFM2 (1080p)" group-title="Ben's List",BFM2 (1080p)
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg" tvg-name="Blue Bloods" group-title="Ben's List",Blue Bloods
 https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ITwU1yZ.png" tvg-name="Bob l'éponge (720p)" group-title="Ben's List",Bob l'éponge (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ITwU1yZ.png" tvg-name="Bob l'éponge (720p)" group-title="ENFANTS",Bob l'éponge (720p)
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
-#EXTINF:-1 tvg-name="C'est pas sorcier" group-title="Ben's List",C'est pas sorcier
+#EXTINF:-1 tvg-name="C'est pas sorcier" group-title="ENFANTS",C'est pas sorcier
 https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
-#EXTINF:-1 tvg-name="Cartoon Classics (1080p)" group-title="Ben's List",Cartoon Classics (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png" tvg-name="Canal Savoir (360p)" group-title="Ben's List",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" tvg-name="Canal+ Cinemas (720p)" group-title="Ben's List",Canal+ Cinemas (720p)
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXI8hM1.png" tvg-name="Canal+ Family (720p)" group-title="Ben's List",Canal+ Family (720p)
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Classics (1080p)" group-title="ENFANTS",Cartoon Classics (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8apNaLP.png" tvg-name="CBC (576p)" group-title="Ben's List",CBC (576p)
 https://flu.systemnet.tv/CBC/index.m3u8
@@ -103,8 +129,6 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWGVjsg.png" tvg-name="CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]" group-title="Ben's List",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3mEdjuq.png" tvg-name="CBC Sport HD [Geo-blocked]" group-title="Ben's List",CBC Sport HD [Geo-blocked]
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png" tvg-name="CBC Toronto (CBLT-DT) (720p) [Geo-blocked]" group-title="Ben's List",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WsD83lq.png" tvg-name="CBC TV8 (1080p) [Not 24/7]" group-title="Ben's List",CBC TV8 (1080p) [Not 24/7]
@@ -113,18 +137,48 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NFts1uU.png" tvg-name="CBC Windsor (CBET-DT) (720p) [Geo-blocked]" group-title="Ben's List",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-name="CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]" group-title="Ben's List",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-name="CBS 42 Austin TX (KEYE) (1080p)" group-title="Ben's List",CBS 42 Austin TX (KEYE) (1080p)
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-name="CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]" group-title="Ben's List",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" tvg-name="CBS News 24/7 (720p)" group-title="Ben's List",CBS News 24/7 (720p)
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpc4v0u.png" tvg-name="CBS News New York (720p)" group-title="Ben's List",CBS News New York (720p)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" tvg-name="Ciné 666 by Pluto TV" group-title="Ben's List",Ciné 666 by Pluto TV
+https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" tvg-name="Ciné Action by Pluto TV" group-title="Ben's List",Ciné Action by Pluto TV
+https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" tvg-name="Ciné by Pluto TV" group-title="Ben's List",Ciné by Pluto TV
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" tvg-name="Ciné Catastrophe by Pluto TV" group-title="Ben's List",Ciné Catastrophe by Pluto TV
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG_1751272759694.png" tvg-name="Ciné d'Asie by Pluto TV" group-title="Ben's List",Ciné d'Asie by Pluto TV
+https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66e1978babec540008ce41ac/colorLogoPNG_1751272165674.png" tvg-name="Ciné Horreur by Pluto TV" group-title="Ben's List",Ciné Horreur by Pluto TV
+https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" tvg-name="Ciné Rétro by Pluto TV" group-title="Ben's List",Ciné Rétro by Pluto TV
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png" tvg-name="Ciné Romance by Pluto TV" group-title="Ben's List",Ciné Romance by Pluto TV
+https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" tvg-name="Ciné Sci-Fi by Pluto TV" group-title="Ben's List",Ciné Sci-Fi by Pluto TV
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" tvg-name="Ciné Thrillers by Pluto TV" group-title="Ben's List",Ciné Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" tvg-name="Ciné Western by Pluto TV" group-title="Ben's List",Ciné Western by Pluto TV
+https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 tvg-name="Cirque du Soleil (1080p) [Geo-blocked]" group-title="Ben's List",Cirque du Soleil (1080p) [Geo-blocked]
 https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mowSfj6.png" tvg-name="Cold Case Files (1080p)" group-title="Ben's List",Cold Case Files (1080p)
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" tvg-name="Comedy Central" group-title="Ben's List",Comedy Central
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-name="Comedy Central (1080p)" group-title="Ben's List",Comedy Central (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" tvg-name="Comedy Central (720p)" group-title="Ben's List",Comedy Central (720p)
+https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6641fd41b18d700008e7e2b8/colorLogoPNG.png" tvg-name="Comedy Central Roast" group-title="Ben's List",Comedy Central Roast
+https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GKO6Fp.png" tvg-name="Comedy Central South Park" group-title="Ben's List",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GKO6Fp.png" tvg-name="Comedy Central South Park" group-title="Ben's List",Comedy Central South Park
@@ -137,14 +191,40 @@ https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9K8T3ND.png" tvg-name="Dark Matter TV (720p)" group-title="Ben's List",Dark Matter TV (720p)
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512" tvg-name="Detective Conan France (720p)" group-title="ENFANTS",Detective Conan France (720p)
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-name="Disney Channel (576p)" group-title="ENFANTS",Disney Channel (576p)
+https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelRomania.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" tvg-name="Disney Jr. (1080p)" group-title="ENFANTS",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x57klfS.png" tvg-name="Documentary+ (1080p)" group-title="Ben's List",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Earth: Final Conflict" group-title="Ben's List",Earth: Final Conflict
 https://jmp2.uk/plu-66f1331f9409630008077623.m3u8
 #EXTINF:-1 tvg-name="Enquetes de Choc (1080p)" group-title="Ben's List",Enquetes de Choc (1080p)
 https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" tvg-name="Euronews (720p)" group-title="Ben's List",Euronews (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:-1 tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" tvg-name="Euronews (720p)" group-title="Ben's List",Euronews (720p)
+https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" tvg-name="Euronews English (720p)" group-title="Ben's List",Euronews English (720p)
+https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" tvg-name="Euronews English HD" group-title="Ben's List",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-name="Euronews French (720p)" group-title="Ben's List",Euronews French (720p)
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBlXl2T.png" tvg-name="Ev-tele (720p)" group-title="Ben's List",Ev-tele (720p)
+https://playtv4k.live/live/EVTELE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTWl2Iy.png" tvg-name="Evasion TV" group-title="Ben's List",Evasion TV
+https://kali.vdopanel.com:3090/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" tvg-name="Everybody Hates Chris" group-title="Ben's List",Everybody Hates Chris
+https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" tvg-name="Everybody Hates Chris" group-title="Ben's List",Everybody Hates Chris
+https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" tvg-name="Family Ties" group-title="Ben's List",Family Ties
+https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" tvg-name="Family Ties" group-title="Ben's List",Family Ties
+https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WH4lSc.png" tvg-name="Farscape" group-title="Ben's List",Farscape
 https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-name="FIFA+ (720p)" group-title="Ben's List",FIFA+ (720p)
@@ -153,6 +233,8 @@ https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-name="FIFA+ United States (720p)" group-title="Ben's List",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" tvg-name="FIFA+ Women (720p)" group-title="Ben's List",FIFA+ Women (720p)
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wqeGXM.png" tvg-name="FilmRise Anime (720p)" group-title="Ben's List",FilmRise Anime (720p)
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="FilmRise Binge Watch France (720p)" group-title="Ben's List",FilmRise Binge Watch France (720p)
@@ -197,16 +279,16 @@ https://9485e5d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ghost Stories (720p)" group-title="Ben's List",Ghost Stories (720p)
 https://d3qindbjv75wld.cloudfront.net/v1/ae_networks_unxplainedzonehauntings_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZVO8GVI.png" tvg-name="Ghost TV (712p) [Not 24/7]" group-title="Ben's List",Ghost TV (712p) [Not 24/7]
-https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WgN4T18.png" tvg-name="Gordon Ramsay (720p)" group-title="Ben's List",Gordon Ramsay (720p)
 https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
 #EXTINF:-1 tvg-name="Graham Norton Germany (1080p)" group-title="Ben's List",Graham Norton Germany (1080p)
 https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-name="Gulli" group-title="Ben's List",Gulli
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-name="Gulli" group-title="ENFANTS",Gulli
 https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl (720p)" group-title="Ben's List",Gulli Girl (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-name="Gulli Girl (720p)" group-title="ENFANTS",Gulli Girl (720p)
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-name="Gulli HD (720p)" group-title="ENFANTS",Gulli HD (720p)
+http://41.205.77.102/GULLI/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" tvg-name="Haunt TV (1080p)" group-title="Ben's List",Haunt TV (1080p)
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" tvg-name="HauntTV CA (720p)" group-title="Ben's List",HauntTV CA (720p)
@@ -217,6 +299,10 @@ https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellsk
 http://103.154.3.101:5001/live/577.m3u8
 #EXTINF:-1 tvg-name="Hoarders by A&E (720p)" group-title="Ben's List",Hoarders by A&E (720p)
 https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" tvg-name="House of Lies" group-title="Ben's List",House of Lies
+https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" tvg-name="House of Lies" group-title="Ben's List",House of Lies
+https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
 #EXTINF:-1 tvg-name="Ice Road Truckers (720p)" group-title="Ben's List",Ice Road Truckers (720p)
 https://7aac8d7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pFCJGj4.png" tvg-name="Ici Radio-Canada Télé (1080p) [Geo-blocked]" group-title="Ben's List",Ici Radio-Canada Télé (1080p) [Geo-blocked]
@@ -245,40 +331,104 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ICI_Acadie_logo_2018.svg/960px-ICI_Acadie_logo_2018.svg.png" tvg-name="Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]" group-title="Ben's List",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" tvg-name="ICI RDI (720p)" group-title="Ben's List",ICI RDI (720p)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-name="ION Mystery (1080p)" group-title="Ben's List",ION Mystery (1080p)
 https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" tvg-name="Japanim TV (1080p)" group-title="Ben's List",Japanim TV (1080p)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png" tvg-name="JAG" group-title="Ben's List",JAG
+https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png" tvg-name="JAG" group-title="Ben's List",JAG
+https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" tvg-name="JAG" group-title="Ben's List",JAG
+https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" tvg-name="JAG" group-title="Ben's List",JAG
+https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" tvg-name="Japanim TV (1080p)" group-title="ENFANTS",Japanim TV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" tvg-name="Judge Judy" group-title="Ben's List",Judge Judy
+https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-name="Judge Judy" group-title="Ben's List",Judge Judy
+https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-name="Judge Judy" group-title="Ben's List",Judge Judy
+https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png" tvg-name="Just Tattoo of Us" group-title="Ben's List",Just Tattoo of Us
+https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jMs4h9F.png" tvg-name="La Trois (720p)" group-title="Ben's List",La Trois (720p)
+http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jMwZp7z.png" tvg-name="La Une (720p)" group-title="Ben's List",La Une (720p)
+http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-name="LCN [Geo-blocked]" group-title="Ben's List",LCN [Geo-blocked]
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" tvg-name="Le Figaro IDF (1080p)" group-title="Ben's List",Le Figaro IDF (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Xz4hjD.png" tvg-name="Le miracle de l'amour" group-title="Ben's List",Le miracle de l'amour
+https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1OjaB0.png" tvg-name="Les Années fac" group-title="Ben's List",Les Années fac
+https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxipSaQ.png" tvg-name="Les filles d'à côté" group-title="Ben's List",Les filles d'à côté
+https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ego8ozn.png" tvg-name="Les Nouveaux Detectives" group-title="Ben's List",Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-name="Love Nature (1080p)" group-title="Ben's List",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-name="Love Nature 4K (2160p) [Geo-blocked]" group-title="Ben's List",Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-name="Luxe Fireplace Vibes (1080p) [Geo-blocked]" group-title="Ben's List",Luxe Fireplace Vibes (1080p) [Geo-blocked]
-https://pb-0yvknepz2ngjh.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" tvg-name="MacGyver" group-title="Ben's List",MacGyver
+https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" tvg-name="MacGyver" group-title="Ben's List",MacGyver
+https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" tvg-name="MacGyver" group-title="Ben's List",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" tvg-name="MacGyver" group-title="Ben's List",MacGyver
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L9Epmtf.png" tvg-name="Married... with Children" group-title="Ben's List",Married... with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" tvg-name="Medium" group-title="Ben's List",Medium
+https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" tvg-name="Medium" group-title="Ben's List",Medium
+https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png" tvg-name="More TV Crime" group-title="Ben's List",More TV Crime
+https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" tvg-name="More TV Sci-fi" group-title="Ben's List",More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png" tvg-name="Most Haunted (1080p)" group-title="Ben's List",Most Haunted (1080p)
 https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Most Haunted: Unseen" group-title="Ben's List",Most Haunted: Unseen
 https://jmp2.uk/plu-68e3bffe1cfcd7541d59090f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-name="Motorvision (1080p)" group-title="Ben's List",Motorvision (1080p)
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8c54ycg.png" tvg-name="MOVIEDOME (720p)" group-title="Ben's List",MOVIEDOME (720p)
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a67d572fac9c000835eb3a/colorLogoPNG.png" tvg-name="Moviepilot TV mit Pluto TV" group-title="Ben's List",Moviepilot TV mit Pluto TV
+https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIk5EJN.png" tvg-name="Movify Kino (576p)" group-title="Ben's List",Movify Kino (576p)
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-name="Mr Bean Live Action (1080p)" group-title="Ben's List",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" tvg-name="Mr Bean Live Action (1080p)" group-title="Ben's List",Mr Bean Live Action (1080p)
-https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Animated (1080p)" group-title="Ben's List",Mr. Bean Animated (1080p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Animated (1080p)" group-title="ENFANTS",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Anime Italy (1080p)" group-title="ENFANTS",Mr. Bean Anime Italy (1080p)
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Anime Spain (1080p)" group-title="ENFANTS",Mr. Bean Anime Spain (1080p)
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4gwstM.png" tvg-name="Mystery TV (1080p)" group-title="Ben's List",Mystery TV (1080p)
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-name="National Geographic (Finland) (720p) [Geo-blocked]" group-title="Ben's List",National Geographic (Finland) (720p) [Geo-blocked]
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-name="National Geographic HD (1080p)" group-title="Ben's List",National Geographic HD (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-name="National Geographic Wild (720p)" group-title="Ben's List",National Geographic Wild (720p)
+http://41.205.77.102/NATGEO-WILD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-name="National Geographic Wild HD (1080p)" group-title="Ben's List",National Geographic Wild HD (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/NatGeoWildRomania.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" tvg-name="NCIS" group-title="Ben's List",NCIS
+https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" tvg-name="NCIS: Los Angeles" group-title="Ben's List",NCIS: Los Angeles
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-name="NHL (1080p)" group-title="Ben's List",NHL (1080p)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL (1080p)" group-title="Ben's List",NHL (1080p)
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="ENFANTS",Nickelodeon (1080p)
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1 tvg-name="Noovo Cinéma (1080p)" group-title="Ben's List",Noovo Cinéma (1080p)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 #EXTINF:-1 tvg-name="Noovo Comédies (1080p)" group-title="Ben's List",Noovo Comédies (1080p)
@@ -303,14 +453,82 @@ https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kkm7VqV.png" tvg-name="PBS Antiques Road Trip (1080p)" group-title="Ben's List",PBS Antiques Road Trip (1080p)
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" tvg-name="Pimp My Ride" group-title="Ben's List",Pimp My Ride
+https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" tvg-name="Pimp My Ride" group-title="Ben's List",Pimp My Ride
+https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png" tvg-name="Pluto TV 2010's Classics" group-title="Ben's List",Pluto TV 2010's Classics
+https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66d717d2abec540008ba7ec4/colorLogoPNG_1731066705631.png" tvg-name="Pluto TV 80's Action" group-title="Ben's List",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" tvg-name="Pluto TV 90's Classics" group-title="Ben's List",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" tvg-name="Pluto TV Action" group-title="Ben's List",Pluto TV Action
+https://jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" tvg-name="Pluto TV Action" group-title="Ben's List",Pluto TV Action
+https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" tvg-name="Pluto TV Action" group-title="Ben's List",Pluto TV Action
+https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" tvg-name="Pluto TV Action" group-title="Ben's List",Pluto TV Action
+https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png" tvg-name="Pluto TV Alien Invasion" group-title="Ben's List",Pluto TV Alien Invasion
 https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png" tvg-name="Pluto TV Alien Invasion" group-title="Ben's List",Pluto TV Alien Invasion
 https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png" tvg-name="Pluto TV American True Crime" group-title="Ben's List",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-name="Pluto TV Aventure" group-title="Ben's List",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png" tvg-name="Pluto TV Brigade Criminelle" group-title="Ben's List",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" tvg-name="Pluto TV Classic TV" group-title="Ben's List",Pluto TV Classic TV
+https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" tvg-name="Pluto TV Comédie" group-title="Ben's List",Pluto TV Comédie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" tvg-name="Pluto TV Comédies Cultes" group-title="Ben's List",Pluto TV Comédies Cultes
+https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" tvg-name="Pluto TV Comedy Movies" group-title="Ben's List",Pluto TV Comedy Movies
+https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" tvg-name="Pluto TV French Collection" group-title="Ben's List",Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" tvg-name="Pluto TV Horror" group-title="Ben's List",Pluto TV Horror
+https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" tvg-name="Pluto TV Horror" group-title="Ben's List",Pluto TV Horror
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png" tvg-name="Pluto TV Humor" group-title="Ben's List",Pluto TV Humor
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png" tvg-name="Pluto TV John Wayne" group-title="Ben's List",Pluto TV John Wayne
+https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" tvg-name="Pluto TV Junior (720p)" group-title="ENFANTS",Pluto TV Junior (720p)
+https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" tvg-name="Pluto TV Junior (720p)" group-title="ENFANTS",Pluto TV Junior (720p)
+https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" tvg-name="Pluto TV Kids" group-title="ENFANTS",Pluto TV Kids
+https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" tvg-name="Pluto TV Kids Classics (720p)" group-title="ENFANTS",Pluto TV Kids Classics (720p)
+https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" tvg-name="Pluto TV Motor" group-title="Ben's List",Pluto TV Motor
+https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" tvg-name="Pluto TV Motor" group-title="Ben's List",Pluto TV Motor
+https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" tvg-name="Pluto TV Movies" group-title="Ben's List",Pluto TV Movies
 https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" tvg-name="Pluto TV Movies" group-title="Ben's List",Pluto TV Movies
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" tvg-name="Pluto TV Paranormal" group-title="Ben's List",Pluto TV Paranormal
+https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" tvg-name="Pluto TV Paranormal" group-title="Ben's List",Pluto TV Paranormal
+https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png" tvg-name="Pluto TV PetrolHeads" group-title="Ben's List",Pluto TV PetrolHeads
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" tvg-name="Pluto TV Polar" group-title="Ben's List",Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" tvg-name="Pluto TV Retro Toons" group-title="ENFANTS",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" tvg-name="Pluto TV Retro Toons" group-title="ENFANTS",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" tvg-name="Pluto TV Sci-fi" group-title="Ben's List",Pluto TV Sci-fi
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-name="Pluto TV Sci-Fi" group-title="Ben's List",Pluto TV Sci-Fi
 https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-name="Pluto TV Sci-Fi" group-title="Ben's List",Pluto TV Sci-Fi
@@ -325,22 +543,44 @@ https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f9598588f86000078ee7d6/colorLogoPNG.png" tvg-name="Pluto TV Sci-Fi" group-title="Ben's List",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" tvg-name="Pluto TV Sci-fi" group-title="Ben's List",Pluto TV Sci-fi
-https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" tvg-name="Pluto TV Sci-Fi" group-title="Ben's List",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" tvg-name="Pluto TV Sci-Fi" group-title="Ben's List",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" tvg-name="Pluto TV Sci-fi Series" group-title="Ben's List",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" tvg-name="Pluto TV Science" group-title="Ben's List",Pluto TV Science
+https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" tvg-name="Pluto TV Shows por Stingray (720p)" group-title="Ben's List",Pluto TV Shows por Stingray (720p)
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" tvg-name="Pluto TV Sitcoms" group-title="Ben's List",Pluto TV Sitcoms
+https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Ben's List",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Ben's List",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Ben's List",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Ben's List",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Ben's List",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Ben's List",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-name="Pluto TV Snooker 900 (720p)" group-title="Ben's List",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-name="Pluto TV Space" group-title="Ben's List",Pluto TV Space
 https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-name="Pluto TV Space" group-title="Ben's List",Pluto TV Space
 https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png" tvg-name="Pluto TV Space" group-title="Ben's List",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png" tvg-name="Pluto TV Sport" group-title="Ben's List",Pluto TV Sport
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-name="Pluto TV Sport" group-title="Ben's List",Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-name="Pluto TV Sport" group-title="Ben's List",Pluto TV Sport
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UmuJkVB.png" tvg-name="Pluto TV Spotlight" group-title="Ben's List",Pluto TV Spotlight
 https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" tvg-name="Pluto TV Star Trek" group-title="Ben's List",Pluto TV Star Trek
@@ -353,10 +593,26 @@ https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69492467ae33e24d916e56cf/colorLogoPNG_1770896970638.png" tvg-name="Pluto TV Star Trek: Animation" group-title="Ben's List",Pluto TV Star Trek: Animation
 https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png" tvg-name="Pluto TV Storia" group-title="Ben's List",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG_1733440546104.png" tvg-name="Pluto TV Super Kids" group-title="ENFANTS",Pluto TV Super Kids
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png" tvg-name="Pluto TV Teen (720p)" group-title="ENFANTS",Pluto TV Teen (720p)
+https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png" tvg-name="Pluto TV Téléréalité France" group-title="Ben's List",Pluto TV Téléréalité France
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" tvg-name="Pluto TV Thrillers" group-title="Ben's List",Pluto TV Thrillers
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png" tvg-name="Pluto TV Toons (720p)" group-title="ENFANTS",Pluto TV Toons (720p)
+https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" tvg-name="Qello Concerts by Stingray (1080p)" group-title="Ben's List",Qello Concerts by Stingray (1080p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" tvg-name="Qello Concerts by Stingray (1080p)" group-title="Ben's List",Qello Concerts by Stingray (1080p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" tvg-name="RACER International (1080p)" group-title="Ben's List",RACER International (1080p)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CurtYvn.png" tvg-name="Racer Select (1080p)" group-title="Ben's List",Racer Select (1080p)
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Films Action (720p)" group-title="Ben's List",Rakuten TV Films Action (720p)
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Films Comédie (720p)" group-title="Ben's List",Rakuten TV Films Comédie (720p)
@@ -365,8 +621,6 @@ https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Films Famille (1080p)" group-title="Ben's List",Rakuten TV Films Famille (1080p)
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Films Français (720p)" group-title="Ben's List",Rakuten TV Films Français (720p)
-https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Films Romance (720p)" group-title="Ben's List",Rakuten TV Films Romance (720p)
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Films Thriller (720p)" group-title="Ben's List",Rakuten TV Films Thriller (720p)
@@ -383,11 +637,29 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV US (1080p)" group-title="Ben's List",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png" tvg-name="Reno 911" group-title="Ben's List",Reno 911
+https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png" tvg-name="Reno 911" group-title="Ben's List",Reno 911
+https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQ0Q6nE.png" tvg-name="RHT Guadeloupe (720p)" group-title="Ben's List",RHT Guadeloupe (720p)
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-name="RMC Decouverte (576p)" group-title="Ben's List",RMC Decouverte (576p)
+http://41.205.77.102/RMCDECOUVERTE/index.m3u8
+#EXTINF:-1 tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" tvg-name="RMC Life (720p)" group-title="Ben's List",RMC Life (720p)
+http://41.205.77.102/CHERIE25/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" tvg-name="RMC Story (1080p)" group-title="Ben's List",RMC Story (1080p)
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nFqjVNW.png" tvg-name="RTL9 (720p)" group-title="Ben's List",RTL9 (720p)
+http://rezofoot.tv/rtl-9/index.m3u8
 #EXTINF:-1 tvg-name="Sci-Fi World (1080p)" group-title="Ben's List",Sci-Fi World (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
-#EXTINF:-1 tvg-name="Sonic The Hedgehog (720p)" group-title="Ben's List",Sonic The Hedgehog (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-name="Serie Max" group-title="Ben's List",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png" tvg-name="Series by Pluto TV" group-title="Ben's List",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 tvg-name="Sonic The Hedgehog (720p)" group-title="ENFANTS",Sonic The Hedgehog (720p)
 https://d2f1o3sb3u36tf.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-name="Sonic The Hedgehog (720p)" group-title="Ben's List",Sonic The Hedgehog (720p)
+#EXTINF:-1 tvg-name="Sonic The Hedgehog (720p)" group-title="ENFANTS",Sonic The Hedgehog (720p)
 https://dtwdcugadwtnw.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-name="Sony One Favoris (1080p)" group-title="Ben's List",Sony One Favoris (1080p)
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
@@ -471,8 +743,6 @@ https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
 https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1 tvg-name="South Park: Welcome to Canada!" group-title="Ben's List",South Park: Welcome to Canada!
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
-#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-name="Space Live powered by sen (1080p)" group-title="Ben's List",Space Live powered by sen (1080p)
-https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG_1753988616763.png" tvg-name="Star Trek" group-title="Ben's List",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 #EXTINF:-1 tvg-name="Star Trek Movies" group-title="Ben's List",Star Trek Movies
@@ -581,24 +851,76 @@ https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65wxNn4.png" tvg-name="Super! SpongeBob (720p)" group-title="Ben's List",Super! SpongeBob (720p)
 https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png" tvg-name="SYFY HD (720p)" group-title="Ben's List",SYFY HD (720p)
+http://rezofoot.tv/SYFY-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65c096d23ba51e0008305a75/colorLogoPNG.png" tvg-name="The Daily Show" group-title="Ben's List",The Daily Show
+https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65c096d23ba51e0008305a75/colorLogoPNG.png" tvg-name="The Daily Show" group-title="Ben's List",The Daily Show
+https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" tvg-name="The Graham Norton Show (1080p)" group-title="Ben's List",The Graham Norton Show (1080p)
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69afeefa0a7f2095e768401c/colorLogoPNG_1776168453662.png" tvg-name="The Millers" group-title="Ben's List",The Millers
+https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69afeefa0a7f2095e768401c/colorLogoPNG_1776168453662.png" tvg-name="The Millers" group-title="Ben's List",The Millers
+https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" tvg-name="The New Detectives" group-title="Ben's List",The New Detectives
+https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" tvg-name="The New Detectives" group-title="Ben's List",The New Detectives
+https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" tvg-name="The New Detectives" group-title="Ben's List",The New Detectives
+https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
 #EXTINF:-1 tvg-name="The Outer Limits" group-title="Ben's List",The Outer Limits
 https://jmp2.uk/plu-68ad90673efb41cd97c95825.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective International (720p)" group-title="Ben's List",The Pet Collective International (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective" group-title="ENFANTS",The Pet Collective
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective" group-title="ENFANTS",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective (720p)" group-title="ENFANTS",The Pet Collective (720p)
+https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective International (720p)" group-title="ENFANTS",The Pet Collective International (720p)
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective International (720p)" group-title="Ben's List",The Pet Collective International (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-name="The Pet Collective International (720p)" group-title="ENFANTS",The Pet Collective International (720p)
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiIRQAR.png" tvg-name="The Twilight Zone" group-title="Ben's List",The Twilight Zone
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" tvg-name="The Twilight Zone" group-title="Ben's List",The Twilight Zone
+https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IwJ5Pnc.png" tvg-name="The Walking Dead Universe (720p)" group-title="Ben's List",The Walking Dead Universe (720p)
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-name="The Wild Wild West" group-title="Ben's List",The Wild Wild West
+https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-name="The Wild Wild West" group-title="Ben's List",The Wild Wild West
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68e8ffee9d1d49e672fe790f/colorLogoPNG_1761768607111.png" tvg-name="The Yellow Couch with Jeremy Lynch" group-title="Ben's List",The Yellow Couch with Jeremy Lynch
+https://jmp2.uk/plu-68e8ffee9d1d49e672fe790f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrVLyE6.png" tvg-name="This Old House (1080p)" group-title="Ben's List",This Old House (1080p)
 https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" tvg-name="TNA Wrestling Channel (1080p) [Geo-blocked]" group-title="Ben's List",TNA Wrestling Channel (1080p) [Geo-blocked]
+https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Sci-Fi (1080p)" group-title="Ben's List",Top Sci-Fi (1080p)
 https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" tvg-name="Tortues Ninja TV (720p)" group-title="ENFANTS",Tortues Ninja TV (720p)
+https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-name="Totally Turtles" group-title="ENFANTS",Totally Turtles
+https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" tvg-name="Tout le monde déteste Chris" group-title="Ben's List",Tout le monde déteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-name="True Crime by Pluto TV" group-title="Ben's List",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LK2NFst.png" tvg-name="True Crime UK (1080p)" group-title="Ben's List",True Crime UK (1080p)
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" tvg-name="Turbo (720p)" group-title="Ben's List",Turbo (720p)
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" tvg-name="TV5 Quebec Canada (1080p)" group-title="Ben's List",TV5 Quebec Canada (1080p)
 http://23.133.220.149/TV5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0N64Ddn.png" tvg-name="TV5Monde Africa (720p)" group-title="Ben's List",TV5Monde Africa (720p)
+http://5.9.121.178:80/tv5monde/index.m3u8
+#EXTINF:-1 tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-name="TV5MONDE Chefs (1080p)" group-title="Ben's List",TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-name="TV5Monde Europe (1080p)" group-title="Ben's List",TV5Monde Europe (1080p)
+http://45.14.84.37:80/tv5monde/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-name="TV5Monde Info (1080p) [Geo-blocked]" group-title="Ben's List",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" tvg-name="TVA [Geo-blocked]" group-title="Ben's List",TVA [Geo-blocked]
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-name="Unchained TV (1080p)" group-title="Ben's List",Unchained TV (1080p)
@@ -607,11 +929,47 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De3khrX.png" tvg-name="Unsolved Mysteries (720p)" group-title="Ben's List",Unsolved Mysteries (720p)
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" tvg-name="Viafree Movies" group-title="Ben's List",Viafree Movies
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" tvg-name="Viafree Movies" group-title="Ben's List",Viafree Movies
+https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVCV9rj.png" tvg-name="ViàMatélé (1080p)" group-title="Ben's List",ViàMatélé (1080p)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7y7ancc.png" tvg-name="Vosges Télévision (576p) [Not 24/7]" group-title="Ben's List",Vosges Télévision (576p) [Not 24/7]
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-name="Voyages & Saveurs (720p)" group-title="Ben's List",Voyages & Saveurs (720p)
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-name="Voyages+ (1080p)" group-title="Ben's List",Voyages+ (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-name="W9 (1080p)" group-title="Ben's List",W9 (1080p)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0N7EhuD.png" tvg-name="Walker Texas Ranger" group-title="Ben's List",Walker Texas Ranger
+https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
+#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" tvg-name="WaterBear (1080p)" group-title="Ben's List",WaterBear (1080p)
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQkfRhH.png" tvg-name="Wild Side TV" group-title="Ben's List",Wild Side TV
+https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" tvg-name="WildEarth (1080p)" group-title="Ben's List",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 tvg-name="Gulli bkp1 " group-title="Ben's List",Gulli bkp1 
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
-#EXTINF:-1 tvg-name="Gulli bkp2" group-title="Ben's List",Gulli bkp2
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index_3.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" tvg-name="Wildfire" group-title="Ben's List",Wildfire
+https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" tvg-name="Wildfire" group-title="Ben's List",Wildfire
+https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDHN2Vc.png" tvg-name="Y'a que la vérité qui compte" group-title="Ben's List",Y'a que la vérité qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YnUZd3W.png" tvg-name="Zylo Ciné Nanar (1080p)" group-title="Ben's List",Zylo Ciné Nanar (1080p)
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UROzSc.png" tvg-name="Zylo Cine Western (1080p)" group-title="Ben's List",Zylo Cine Western (1080p)
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tteOFkL.png" tvg-name="Zylo Ciné Western (1080p)" group-title="Ben's List",Zylo Ciné Western (1080p)
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MP34aaj.png" tvg-name="Zylo Emotion' L (1080p)" group-title="Ben's List",Zylo Emotion' L (1080p)
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-name="Zylo Fréquence Novelas (1080p)" group-title="Ben's List",Zylo Fréquence Novelas (1080p)
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43at4M2.png" tvg-name="Zylo Into Crime (1080p)" group-title="Ben's List",Zylo Into Crime (1080p)
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGmKbil.png" tvg-name="Zylo ScreamIN (1080p)" group-title="Ben's List",Zylo ScreamIN (1080p)
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-name="Zylo Todo Novelas (1080p)" group-title="Ben's List",Zylo Todo Novelas (1080p)
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8

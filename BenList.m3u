@@ -1597,18 +1597,12 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" tvg-name="NBA TV (1080p)" group-title="Sports",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTgUVKx.png" tvg-name="NBC Sports Bay Area (1080p) [Geo-blocked]" group-title="Sports",NBC Sports Bay Area (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzNf2Yx.png" tvg-name="NBC Sports NOW (1080p)" group-title="Sports",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png" tvg-name="NBC Sports Philadelphia (1080p) [Geo-blocked]" group-title="Sports",NBC Sports Philadelphia (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png" tvg-name="NBCSN (720p)" group-title="Sports",NBCSN (720p)
 http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png" tvg-name="NFL Channel (1080p) - VPN Only" group-title="Sports",NFL Channel (1080p) - VPN Only
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" tvg-name="NFL Network (1080p)  - VPN Only" group-title="Sports",NFL Network (1080p)  - VPN Only
-https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL (1080p)" group-title="Sports",NHL (1080p)
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NHL (1080p)" group-title="Sports",NHL (1080p)
